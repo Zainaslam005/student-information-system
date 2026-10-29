@@ -4,6 +4,6 @@ print("welcome")
 def display_student():
     print("student name: example student")
     print("student address: glasgow")
-
+    print("course: cyber security")
 display_student()
 
